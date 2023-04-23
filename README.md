@@ -6,7 +6,7 @@ How to run the program ?
 Step 1: - Open two terminals. One for server and one for client.
 Step 2: - On the server side run the following command
 
-gcc server.c -o server
+*gcc server.c -o server*
 
 ./server
 
