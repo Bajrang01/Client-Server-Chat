@@ -20,11 +20,11 @@ Note - First run the server then only run the client.
 
 Once you have run the above commands, you can send the message from client to the server, and vice-versa.
 
-#Server Side terminal - 
+# Server Side terminal - 
 
 ![image](https://user-images.githubusercontent.com/76958447/233823126-dddb4a2c-a440-4d91-ac81-71a0199e7767.png)
 
 
-#Client Side Terminal - 
+# Client Side Terminal - 
 
 ![image](https://user-images.githubusercontent.com/76958447/233823174-fcaf2281-b04c-4325-a944-da6f39db980d.png)
