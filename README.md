@@ -6,15 +6,15 @@ How to run the program ?
 Step 1: - Open two terminals. One for server and one for client.
 Step 2: - On the server side run the following command
 
-(`gcc server.c -o server`)
+`gcc server.c -o server`
 
-(`./server`)
+`./server`
 
 Step 3: - On the client side run the following command
 
-(`gcc client.c -o client`)
+`gcc client.c -o client`
 
-(`./client`)
+`./client`
 
 Note - First run the server then only run the client. 
 
